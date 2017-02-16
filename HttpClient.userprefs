@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A7833601-70B7-4E22-8CEC-0B822863286D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet.cs">
+    <Files>
+      <File FileName="Info.plist" />
+      <File FileName="Main.cs" Line="29" Column="4" />
+      <File FileName="DotNet.cs" Line="16" Column="21" />
+      <File FileName="AppDelegate.cs" Line="39" Column="24" />
+      <File FileName="MainWindow.xib.designer.cs" Line="31" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HttpClient PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49DD250-BCD6-43C8-92F1-A60DA73DD94D" />
+</Properties>
